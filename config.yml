@@ -1,0 +1,2 @@
+num_results: 10                 # How many results to return
+model_name: "all-MiniLM-L6-v2"  # Model used for embedding descriptions
